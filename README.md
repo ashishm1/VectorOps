@@ -73,3 +73,4 @@ The app uses the following main tables:
 
 See `create_tables.sql` for the complete schema.
 # VectorOps
+# VectorOps
